@@ -1,0 +1,40 @@
+.prod{
+    display: flex;
+    align-items: center;
+
+}
+.heart{
+    color:gray
+}
+.heart-red{
+    background-color: red;
+    color: honeydew;
+}
+.delete-green{
+    color:green
+}
+.supprime{
+    color: gray;
+}
+h1{
+    text-align:center
+}
+.tot{
+    align-content: center;
+    text-align:center;
+    color: indigo;
+    font-size:xx-large;
+}
+.items{
+    padding: 30px;
+}
+.qt{
+    font-size: 20px;
+}
+.px{
+    font-size: 20px;
+}
+.navbar{
+    display:flex;
+    justify-content:space-evenly ;
+}
